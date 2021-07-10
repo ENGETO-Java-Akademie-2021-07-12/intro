@@ -9,19 +9,21 @@
 
 Cíl kurzu:
 
-> Posunout se ve své programátorské kariéře z&nbsp;úplného začátečníka na úroveň někoho, kdo by si mohl troufnout na pozici juniorního programátora. 
+> Posunout se ve své programátorské kariéře z&nbsp;úplného začátečníka tak, aby sis mohl(a) troufnout na pozici juniorního programátora. 
 
 Nebude to ale zadarmo &mdash; určitě totiž nebude stačit si odsedět samotnou lekci, ale budeš si muset:
+
+- projít si materiály pro samostudium,
 
 - opakovat a procvičovat probranou látku,
 
 - pracovat na projektech,
 
-- **ptát se, když ti něco nepůjde** 
+- **ptát se, když ti něco nepůjde**. 
 
 > Čtvrt hodiny tomu věnuj sám. Když to stále nejde, zeptej se!
 
-Během dvanácti tříhodinových lekcí si postupně od úplných základů projdeme tvorbu programů v Javě, kde si vše zároveň ukážeme i na příkladech, seznámíme se nástroji, které se při vývoji aplikací bežně používají, projdeme si spolu celý vývojový cyklus aplikace, ukážeme si, jak se testuje a všechny tyto nově nabyté znalosti nakonec dostanete šanci uvést do praxe, když si na společném projektu vyzkoušíte, jak se vám podařilo učivo zvládnout.
+Během dvanácti tříhodinových lekcí si postupně od úplných základů projdeme tvorbu programů v&nbsp;Javě. Zároveň si vše ukážeme i&nbsp;na příkladech, seznámíme se s&nbsp;nástroji, které se při vývoji aplikací bežně používají, projdeme si spolu celý vývojový cyklus aplikace. Ukážeme si, jak se testuje a&nbsp;všechny tyto nově nabyté znalosti nakonec dostanete šanci uvést do praxe, když si na projektu vyzkoušíš, jak se Ti podařilo učivo zvládnout.
 
 ---
 
@@ -50,7 +52,7 @@ Na tomto kurzu se vám budou věnovat tři lektoři. Prvními šesti lekcemi vá
  <img src="img/martinsimunek.jpg" height="360">
 </p>
 
-- Vystudoval jsem softwarové inženýrství na FEL ČVUT v&nbsp;Praze, ale také bakalářský obor učitelství odborných předmětů. 
+- Vystudoval jsem softwarové inženýrství na FEL ČVUT v&nbsp;Praze, ale také bakalářský obor Učitelství odborných předmětů. 
 
 - Od roku 2006 působím jako středoškolský učitel a&nbsp;učím žáky zvládat programování, operační systémy, sítě a&nbsp;další IT předměty na oboru Informační technologie v&nbsp;rámci Obchodní akademie Uherské Hradiště.
 
@@ -62,10 +64,23 @@ Na tomto kurzu se vám budou věnovat tři lektoři. Prvními šesti lekcemi vá
 
 Návrh:
 
-1. tři části cca pro 50&nbsp;minutách
-2. mezi nimi vždy cca 10&nbsp;minut pauza
+1. Obvykle dostanete základní materiál k&nbsp;samostudiu.
+	- Nejspíš to bude úvodní teorie &mdash; tu si můžeš přečíst sám, bylo by plýtvání časem, abychom Ti ji předčítali v&nbsp;hodině.
 
-Souhlasíte? ;)
+2. Samotná hodina bude obvykle rozdělena na tři části.
+	- Nejčastěji cca pro 50&nbsp;minutách, mezi nimi vždy cca 10&nbsp;minut pauza.
+	- Průběh hodiny vždy nahráváme, takže se k&nbsp;obsahu můžeš vrátit. Doporučujeme ale na hodiny chodit a&nbsp;záznam využít spíš pro osvěžení věcí, které Ti vypadly, nebo si je nepamatuješ přesně.
+
+3. Na konci lekce bude úkol nebo úkoly.
+	- Na úkolech si vyzkoušíš, jestli jsi učivo zvládl. A&nbsp;třeba Tě přivedou na správný dotaz, který jsi zapomněl položit.
+
+4. Pro individuální dotazy bude určena konzultace.
+	- Samozřejmě se můžeš ptát přímo v&nbsp;hodině. Ale někdy se stane, že s&nbsp;nějakou drobností nechceš hodinu zdržovat.
+	- Někdy se chceš také zeptat něco nad rámec, co by třeba hodinu zdrželo a&nbsp;zajímá speciálně Tebe.
+	- A&nbsp;na některé dotazy přijdeš až dodatečně po hodině, třeba při psaní úkolů.
+	- I&nbsp;konzultace budeme nahrávat a&nbsp;budeš je mít k&nbsp;dispozici.
+
+Souhlasíš? ;)
 
 ---
 
@@ -82,19 +97,19 @@ Souhlasíte? ;)
 ## Jak se učit
 Je samozřejmě jen na vás, jak s&nbsp;Java Akademií naložíte. Jste naši zákazníci!
 
-Abychom společně dosáhli nejlepších výsledků, navrhujeme vám následující „pravidla“:
-1. Ptejte se hned, jak narazíte na problém!
-	- Není důležité, jak „hloupý“ ti tvůj problém připadá. Neexistují hloupé dotazy. Pokud ti něco není jasné, je dotaz vždycky na místě!
-2. Sledování je zábavné, učíte se ale psaním!
+Abychom společně dosáhli nejlepších výsledků, navrhujeme následující „pravidla“:
+1. Ptej se hned, jak narazíš na problém!
+	- Není důležité, jak „hloupý“ Ti tvůj problém připadá. Neexistují hloupé dotazy. Pokud ti něco není jasné, je dotaz vždycky na místě!
+2. Sledování je zábavné, učíš se ale psaním!
 	- Víme, že je příjemné si sednout a&nbsp;sledovat, jak to lektorovi krásně jde (nebo třeba někdy nejde).
-	- Pokud to ale s&nbsp;učením myslíte vážně, musíte si věci zkoušet sami!
-	- Je to stejné jako s&nbsp;běháním maratonu. Můžete si poslechnout pět videokurzů o tom, jaké boty používat, jak se připravovat, jakou výživu zvolit.
-	- A&nbsp;skutečně, najdete lidi, kteří vám budou hodiny zasvěceně vyprávět, jak se připravit na maraton. Ale až se postavíte na start, rozhoduje počet naběhaných kilometrů!
-	- Je jen na vás, jestli se chcete stát „zdatnými teoretiky“, nebo se skutečně naučit psát!
-3. Nevyhovuje vám něco? Řekněte to!
-	- Jsme tady pro vás. Nebojte se říci si, co byste chtěli nebo co by vám pomohlo.
-	- Věnovali jsme přípravě hodně času, ale neznáme vás a&nbsp;vaše potřeby tak, jako se znáte vy. Když nám dáte vědět, budeme se snažit akademii přizpůsobit vašim potřebám a&nbsp;vašemu tempu. 
-	- Navíc nám tím pomůžete lépe pochopit, co účastníci akademie potřebují!
+	- Pokud to ale s&nbsp;učením myslíš vážně, musíš si věci zkoušet sám/sama!
+	- Je to stejné jako s&nbsp;běháním maratonu. Můžeš si poslechnout pět videokurzů o&nbsp;tom, jaké boty používat, jak se připravovat, jakou výživu zvolit.
+	- A&nbsp;skutečně, najdeš lidi, kteří Ti budou hodiny zasvěceně vyprávět, jak se připravit na maraton. Ale až se postavíš na start, rozhoduje počet naběhaných kilometrů!
+	- Je jen na Tobě, jestli se chcete stát „zdatným teoretikem“, nebo se skutečně naučit kódovat!
+3. Nevyhovuje Ti něco? Řekni to!
+	- Jsme tady pro Tebe. Neboj se říci si, co bys chtěl(a), nebo co by Ti pomohlo.
+	- Věnovali jsme přípravě hodně času, ale neznáme Tě a&nbsp;Tvoje potřeby tak, jako se znáš Ty. Když nám dáš vědět, budeme se snažit akademii přizpůsobit Tvým potřebám a&nbsp;Tvému tempu. 
+	- Navíc nám tím pomůžeš lépe pochopit, co účastníci akademie potřebují!
 
 ---
 

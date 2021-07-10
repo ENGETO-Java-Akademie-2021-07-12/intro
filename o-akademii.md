@@ -69,7 +69,8 @@ Návrh:
 
 2. Samotná hodina bude obvykle rozdělena na tři části.
 	- Nejčastěji cca pro 50&nbsp;minutách, mezi nimi vždy cca 10&nbsp;minut pauza.
-	- Průběh hodiny vždy nahráváme, takže se k&nbsp;obsahu můžeš vrátit. Doporučujeme ale na hodiny chodit a&nbsp;záznam využít spíš pro osvěžení věcí, které Ti vypadly, nebo si je nepamatuješ přesně.
+	- Průběh hodiny vždy nahráváme, takže se k&nbsp;obsahu můžeš vrátit. 
+	- Doporučujeme na hodiny chodit a&nbsp;záznam využít spíš pro osvěžení věcí, které Ti vypadly, nebo si je nepamatuješ přesně.
 
 3. Na konci lekce bude úkol nebo úkoly.
 	- Na úkolech si vyzkoušíš, jestli jsi učivo zvládl. A&nbsp;třeba Tě přivedou na správný dotaz, který jsi zapomněl položit.
@@ -79,6 +80,7 @@ Návrh:
 	- Někdy se chceš také zeptat něco nad rámec, co by třeba hodinu zdrželo a&nbsp;zajímá speciálně Tebe.
 	- A&nbsp;na některé dotazy přijdeš až dodatečně po hodině, třeba při psaní úkolů.
 	- I&nbsp;konzultace budeme nahrávat a&nbsp;budeš je mít k&nbsp;dispozici.
+	- Je na Tobě, jestli chceš konzultace využívat, nebo jsou pro Tebe zbytečné. Konzultace jsou prostor pro dotazy navíc. Obvykle je využijí úplní začátečníci, abychom jim pomohli v&nbsp;začátcích, nebo pak pokročilejší, kteří se chtějí ptát něco navíc.
 
 Souhlasíš? ;)
 

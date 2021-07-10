@@ -25,21 +25,27 @@
 
 ---
 
+> <div style="text-align: center">Pokud Ti nefungují odkazy na další lekce, pošli Martinovi své uživatelské jméno na GitHubu, zpřístupní Ti je!</div>
+
+
 ## 🐌 Úvod do programování v Javě
 ### 1. [Úvod (12.7.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/lekce_01)
-- Jazyk Java
-- První program
+- Intro o&nbsp;akademii
+- Jazyk Java, první program
 - Datové typy
+- _Konzultace čtvrtek 15.7.2021 20:00._
 ### 2. [Popis dat (19.7.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
 - Operátory
 - Kolekce
+- _Konzultace čtvrtek 22.7.2021 20:00._
 ### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (26.7.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_03)
 - Podmínky
 - Cykly
 - Komentáře, dokumentace
 - Výčtový typ (`enum`)
+- _Konzultace změna &mdash; **středa 28.7.2021 20:00**._
 
 ---
 
@@ -49,14 +55,17 @@
 - GitHub
 - větve (branch), strategie zařazení do main
 - Git a&nbsp;práce v týmu
+- _Konzultace čtvrtek 5.8.2021 20:00._
 ### 5. [Soubory, výjimky (9.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_05)
 - Výjimky a ošetření chyb
 - Práce se soubory
 - Parsování textového souboru
+- _Konzultace čtvrtek 12.8.2021 20:00._
 ### 6. [Kolekce, pole (16.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_06)
 - Operace nad kolekcemi
 - Pole
 - Zadání prvního projektu
+- _Konzultace čtvrtek 19.8.2021 20:00._
 
 ---
 

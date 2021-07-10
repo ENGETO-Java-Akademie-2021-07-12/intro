@@ -96,3 +96,8 @@ Zde nám zatím stačí si vytvořit účet.
 - Zde vyplňte uživatelské jméno, email a heslo a klikněte na tlačítko <b>Sign up for GitHub</b>
 
 - Vytvořené uživatelské jméno pošli lektorovi přes Slack. Zpřístupní ti obsah dalších lekcí.
+
+
+---
+
+[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro)

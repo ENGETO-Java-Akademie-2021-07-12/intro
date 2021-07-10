@@ -30,6 +30,9 @@
 - Jazyk Java
 - První program
 - Datové typy
+
+<div style="color:gray">
+
 ### 2. [Popis dat (19.7.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
@@ -103,6 +106,8 @@
 ### [Druhý projekt](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/projekt_02)
 
 ---
+
+</div>
 
 
 <!--

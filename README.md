@@ -25,7 +25,7 @@
 
 ---
 
-> <div style="text-align: center">Pokud Ti nefungují odkazy na další lekce, pošli Martinovi své uživatelské jméno na GitHubu, zpřístupní Ti je!</div>
+> <div style="text-align: center">Pokud Ti nefungují odkazy na další lekce, pošli Martinovi přes Slack své uživatelské jméno na GitHubu, zpřístupní Ti je!</div>
 
 
 ## 🐌 Úvod do programování v Javě

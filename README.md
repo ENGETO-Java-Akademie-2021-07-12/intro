@@ -20,7 +20,7 @@
 - Co a jak si nainstalovat?
 
 ### Další materiály
-- [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2021-07-12/reseni-ukolu)
+- [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2021-07-12/ukoly-a-reseni)
 - [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2021-07-12/kod-z-hodin)
 
 ---

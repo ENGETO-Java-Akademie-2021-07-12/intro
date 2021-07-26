@@ -45,7 +45,7 @@
 - Cykly
 - Komentáře, dokumentace
 - Výčtový typ (`enum`)
-- _Konzultace změna &mdash; **středa 28.7.2021 20:00**._
+- _Konzultace čtvrtek 29.7.2021 20:00._
 
 ---
 

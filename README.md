@@ -56,7 +56,7 @@
 - větve (branch), strategie zařazení do main
 - Git a&nbsp;práce v týmu
 - _Konzultace čtvrtek 5.8.2021 20:00._
-### 5. [Soubory, výjimky (9.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_05)
+### 5. **Změna: od 18:30** [Soubory, výjimky (9.8.2021 18:30)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_05)
 - Výjimky a ošetření chyb
 - Práce se soubory
 - Parsování textového souboru

@@ -65,7 +65,7 @@
 - Operace nad kolekcemi
 - Pole
 - Zadání prvního projektu
-- _Konzultace čtvrtek 19.8.2021 20:00._
+- _Konzultace **změna středa 18.8.2021 20:00**._
 
 ---
 

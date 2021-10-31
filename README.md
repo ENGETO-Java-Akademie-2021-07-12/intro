@@ -85,7 +85,7 @@
   - Dědičnost, rozhraní
 ### 9. [Časová složitost, mapy, vlákna (6.9.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_09)
   - Časová složitost algoritmů
-  - Výběr kolekce a&bnsp;časová složitost
+  - Výběr kolekce a&nbsp;časová složitost
   - Práce s vlákny (thread)
 
 ---
